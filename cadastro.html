@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Cadastro de voluntários - Gente do Bem">
+  <title>Seja Voluntário | Gente do Bem</title>
+
+  <link rel="stylesheet" href="css/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <!-- Cabeçalho -->
+  <header>
+    <div class="container">
+      <h1>🤝 Gente do Bem</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Início</a></li>
+          <li><a href="projetos.html">Projetos</a></li>
+          <li><a href="cadastro.html" class="active">Seja Voluntário</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Seção de cadastro -->
+  <section class="cadastro">
+    <div class="container">
+      <h2>Seja um Voluntário 💛</h2>
+      <p>Preencha o formulário abaixo para participar das ações da Gente do Bem.</p>
+
+      <form id="formCadastro">
+        <div class="form-group">
+          <label for="nome">Nome completo:</label>
+          <input type="text" id="nome" name="nome" required>
+        </div>
+
+        <div class="form-group">
+          <label for="email">E-mail:</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+
+        <div class="form-group">
+          <label for="telefone">Telefone:</label>
+          <input type="tel" id="telefone" name="telefone" placeholder="(00) 00000-0000" required>
+        </div>
+
+        <div class="form-group">
+          <label for="cep">CEP:</label>
+          <input type="text" id="cep" name="cep" placeholder="00000-000" maxlength="9" required>
+        </div>
+
+        <div class="form-group">
+          <label for="endereco">Endereço:</label>
+          <input type="text" id="endereco" name="endereco" readonly>
+        </div>
+
+        <div class="form-group">
+          <label for="bairro">Bairro:</label>
+          <input type="text" id="bairro" name="bairro" readonly>
+        </div>
+
+        <div class="form-group">
+          <label for="cidade">Cidade:</label>
+          <input type="text" id="cidade" name="cidade" readonly>
+        </div>
+
+        <div class="form-group">
+          <label for="uf">Estado (UF):</label>
+          <input type="text" id="uf" name="uf" readonly>
+        </div>
+
+        <div class="form-group">
+          <label for="interesse">Área de Interesse:</label>
+          <select id="interesse" name="interesse" required>
+            <option value="">Selecione...</option>
+            <option value="comunitario">Ações Comunitárias</option>
+            <option value="educacao">Educação e Cultura</option>
+            <option value="meioambiente">Meio Ambiente</option>
+          </select>
+        </div>
+
+        <button type="submit" class="btn">Enviar Cadastro</button>
+      </form>
+
+      <p id="mensagemSucesso" class="mensagem-sucesso" style="display:none;">
+        ✅ Cadastro enviado com sucesso! Em breve entraremos em contato.
+      </p>
+    </div>
+  </section>
+
+  <!-- Rodapé -->
+  <footer>
+    <div class="container">
+      <p>© 2025 Gente do Bem — Todos os direitos reservados.</p>
+      <p><a href="https://gentedobem.org.br" target="_blank">gentedobem.org.br</a></p>
+    </div>
+  </footer>
+
+  <!-- JS -->
+  <script src="js/scripts.js"></script>
+</body>
+</html>
