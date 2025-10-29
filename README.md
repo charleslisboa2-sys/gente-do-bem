@@ -43,16 +43,15 @@ Sinta-se à vontade para adaptar e contribuir para causas do bem!
    ```bash
    git clone https://github.com/seuusuario/gente-do-bem.git
 
-2. **Acesse a pasta
+2. **Acesse a pasta**
    ```bash
    cd gente-do-bem
 
-3. **Abra o arquivo principal
-
-Dê duplo clique em index.html ou use uma extensão Live Server no VS Code
+3. **Abra o arquivo principal**
    ```bash
-      code .
-      Clique com o botão direito em index.html → Open with Live Server
+Dê duplo clique em index.html ou use uma extensão Live Server no VS Code
+   code .
+   Clique com o botão direito em index.html → Open with Live Server
 
 ## 🌱Como Hospedar no GitHub Pages
 
