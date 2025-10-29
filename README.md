@@ -7,12 +7,16 @@ Nosso objetivo é promover **ações comunitárias, educação, cultura e susten
 
 ## 💡 Funcionalidades
 
-✅ **Página inicial moderna** com seções "Quem Somos" e "Como Atuamos".  
-✅ **Listagem de projetos sociais** com imagens e descrições.  
+✅ **Página inicial moderna** com seções "Quem Somos" e "Como Atuamos".
+
+✅ **Listagem de projetos sociais** com imagens e descrições.
+
 ✅ **Formulário de cadastro de voluntários** com:
    - Máscara de telefone e CEP.
    - Integração com **[ViaCEP](https://viacep.com.br/)** para preenchimento automático de endereço.
-✅ Design totalmente **responsivo e acessível**.  
+
+✅ Design totalmente **responsivo e acessível**.
+
 ✅ Preparado para deploy no **GitHub Pages**.
 
 ---
