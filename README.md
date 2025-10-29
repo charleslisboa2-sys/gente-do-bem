@@ -49,9 +49,9 @@ Sinta-se à vontade para adaptar e contribuir para causas do bem!
 
 3. **Abra o arquivo principal**
    ```bash
-Dê duplo clique em index.html ou use uma extensão Live Server no VS Code
    code .
-   Clique com o botão direito em index.html → Open with Live Server
+
+Dê duplo clique em index.html ou use uma extensão Live Server no VS Code
 
 ## 🌱Como Hospedar no GitHub Pages
 
@@ -62,5 +62,5 @@ Clique em Settings → Pages.
 Em “Source”, selecione a branch main e a pasta /root (raiz).
 
 Salve — o site ficará disponível em:
-
+   ```lua
 https://seuusuario.github.io/gente-do-bem/
