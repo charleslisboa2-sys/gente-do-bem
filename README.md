@@ -21,39 +21,6 @@ Nosso objetivo é promover **ações comunitárias, educação, cultura e susten
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/seuusuario/gente-do-bem.git
-
-2. **Acesse a pasta
-   ```bash
-   cd gente-do-bem
-
-3. **Abra o arquivo principal
-
-Dê duplo clique em index.html ou use uma extensão Live Server no VS Code
-   ```bash
-   code .
-   Clique com o botão direito em index.html → Open with Live Server
-
----
-
-🌱 Como Hospedar no GitHub Pages
-
-Vá até o repositório no GitHub.
-
-Clique em Settings → Pages.
-
-Em “Source”, selecione a branch main e a pasta /root (raiz).
-
-Salve — o site ficará disponível em:
-
-https://seuusuario.github.io/gente-do-bem/
-
----
-
 ## 📷 Créditos de Imagem
 
 Imagens ilustrativas de ações sociais e sustentabilidade (banco gratuito: Pexels)
@@ -69,3 +36,32 @@ Código-fonte aberto para fins educacionais e sociais.
 
 Este projeto é de uso livre e aberto (MIT License).
 Sinta-se à vontade para adaptar e contribuir para causas do bem!
+
+## 🚀 Como Executar o Projeto
+
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/seuusuario/gente-do-bem.git
+
+2. **Acesse a pasta
+   ```bash
+   cd gente-do-bem
+
+3. **Abra o arquivo principal
+
+Dê duplo clique em index.html ou use uma extensão Live Server no VS Code
+   ```bash
+      code .
+      Clique com o botão direito em index.html → Open with Live Server
+
+## 🌱Como Hospedar no GitHub Pages
+
+Vá até o repositório no GitHub.
+
+Clique em Settings → Pages.
+
+Em “Source”, selecione a branch main e a pasta /root (raiz).
+
+Salve — o site ficará disponível em:
+
+https://seuusuario.github.io/gente-do-bem/
