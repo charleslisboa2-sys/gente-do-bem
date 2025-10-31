@@ -71,11 +71,14 @@ cd gente-do-bem
 code .
 
 
+🌱 Como Hospedar no GitHub Pages
+Vá até o repositório no GitHub
 
+Clique em Settings → Pages
 
-## 🌱Como Hospedar no GitHub Pages
+Em Source, selecione o branch main e a pasta /root (raiz)
 
+Salve — após alguns minutos, o site ficará disponível
 
-## 🚀Como Executar o Projeto
-   ```lua
+🌐 Link do Projeto Hospedado
 Acesse: https://charleslisboa2-sys.github.io/gente-do-bem/
