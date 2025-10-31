@@ -2,13 +2,12 @@
 /* Estilos gerais e layout responsivo */
 
 :root {
-  --cor-principal: #00796b;
-  --cor-secundaria: #009688;
-  --cor-clara: #f4fdfc;
-  --cor-texto: #333;
-  --cor-fundo: #f4fdfc;
-  --cor-destaque: #ffca28;
-  --radius: 10px;
+  --cor-principal: #046c4e;   /* Verde médio orgânico */
+  --cor-secundaria: #035c43;  /* Verde escuro profundo */
+  --cor-clara: #dfe3e0;       /* Cinza-esverdeado leve */
+  --cor-fundo: #e8ebe9;       /* Fundo neutro, mais escuro que branco */
+  --cor-texto: #1e1e1e;       /* Preto suave */
+  --cor-destaque: #f1b82d;    /* Amarelo dourado quente */
 }
 
 * {
@@ -64,11 +63,21 @@ nav a.active {
 
 /* === Hero (destaque inicial) === */
 .hero {
-  background: linear-gradient(to right, var(--cor-principal), var(--cor-secundaria));
+  /* Mantém o gradiente existente */
+  background-image: 
+    linear-gradient(to right, var(--cor-principal), var(--cor-secundaria)),
+    url('../assets/img/capa-maos.jpg'); /* caminho */
+  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-blend-mode: overlay;
+
   color: white;
   text-align: center;
   padding: 100px 20px;
 }
+
 
 .hero h2 {
   font-size: 2.2rem;
