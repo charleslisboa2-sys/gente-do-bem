@@ -53,17 +53,27 @@ Sinta-se à vontade para adaptar e contribuir para causas do bem!
 
 Dê duplo clique em index.html ou use uma extensão Live Server no VS Code
 
+## 🚀 Como Executar o Projeto
+
+# Clonar o repositório
+```bash
+
+git clone https://github.com/charleslisboa2-sys/gente-do-bem.git
+
+# Acessar o diretório
+```bash
+
+cd gente-do-bem
+
+# Abrir no VS Code
+```bash
+
+code .
+
+
+
+
 ## 🌱Como Hospedar no GitHub Pages
-
-Vá até o repositório no GitHub.
-
-Clique em Settings → Pages.
-
-Em “Source”, selecione a branch main e a pasta /root (raiz).
-
-Salve — o site ficará disponível em:
-   ```lua
-https://seuusuario.github.io/gente-do-bem/
 
 
 ## 🚀Como Executar o Projeto
