@@ -67,5 +67,5 @@ https://seuusuario.github.io/gente-do-bem/
 
 
 ## 🚀Como Executar o Projeto
-
+   ```lua
 Acesse: https://charleslisboa2-sys.github.io/gente-do-bem/
