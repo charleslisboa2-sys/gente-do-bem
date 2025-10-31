@@ -41,7 +41,7 @@ Sinta-se à vontade para adaptar e contribuir para causas do bem!
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seuusuario/gente-do-bem.git
+   git clone https://github.com/charleslisboa2-sys/gente-do-bem.git
 
 2. **Acesse a pasta**
    ```bash
@@ -64,3 +64,8 @@ Em “Source”, selecione a branch main e a pasta /root (raiz).
 Salve — o site ficará disponível em:
    ```lua
 https://seuusuario.github.io/gente-do-bem/
+
+
+## 🚀Como Executar o Projeto
+
+Acesse: https://charleslisboa2-sys.github.io/gente-do-bem/
