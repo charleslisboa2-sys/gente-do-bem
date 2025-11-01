@@ -40,8 +40,9 @@ Sinta-se à vontade para adaptar e contribuir para causas do bem!
 ## 🚀 Como Executar o Projeto
 
 1. **Clone o repositório**
+   git clone 
    ```bash
-   git clone https://github.com/charleslisboa2-sys/gente-do-bem.git
+   https://github.com/charleslisboa2-sys/gente-do-bem.git
 
 2. **Acesse a pasta**
    ```bash
