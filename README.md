@@ -29,12 +29,12 @@ Imagens ilustrativas de ações sociais e sustentabilidade (banco gratuito: Pexe
 
 ## 🧑‍💻 Desenvolvido por
 
-Projeto criado por Charles Lisboa.
+Projeto criado por **Charles Lisboa**
 Código-fonte aberto para fins educacionais e sociais.
 
 ## 🕊️ Licença
 
-Este projeto é de uso livre e aberto (MIT License).
+Este projeto é de uso livre e aberto **MIT License**
 Sinta-se à vontade para adaptar e contribuir para causas do bem!
 
 ## 🚀 Como Executar o Projeto
@@ -55,7 +55,9 @@ Dê duplo clique em index.html ou use uma extensão Live Server no VS Code
 
 ## 🚀 Como Executar o Projeto
 
-# Clonar o repositório
+## 🚀 Como Executar o Projeto
+
+1. Clone o repositório:
 ```bash
 
 git clone https://github.com/charleslisboa2-sys/gente-do-bem.git
@@ -71,7 +73,7 @@ cd gente-do-bem
 code .
 
 
-🌱 Como Hospedar no GitHub Pages
+## 🌱 Como Hospedar no GitHub Pages
 Vá até o repositório no GitHub
 
 Clique em Settings → Pages
@@ -80,5 +82,7 @@ Em Source, selecione o branch main e a pasta /root (raiz)
 
 Salve — após alguns minutos, o site ficará disponível
 
-🌐 Link do Projeto Hospedado
+## 🌐 Link do Projeto Hospedado
+```bash
+
 Acesse: https://charleslisboa2-sys.github.io/gente-do-bem/
