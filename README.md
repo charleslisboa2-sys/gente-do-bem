@@ -64,6 +64,7 @@ Em Source, selecione o branch main e a pasta /root (raiz)
 Salve — após alguns minutos, o site ficará disponível
 
 ## 🌐 Link do Projeto Hospedado
+Acesse:
 ```bash
 
-Acesse: https://charleslisboa2-sys.github.io/gente-do-bem/
+https://charleslisboa2-sys.github.io/gente-do-bem/
